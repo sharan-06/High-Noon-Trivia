@@ -12,25 +12,24 @@ A Western-themed trivia game where you face off against a bot in a duel of wits.
 6. Score & Health Tracking: Keeps track of both player and bot health, as well as the number of correct answers.
 
 🛠️ How to Run This Project Locally
-
 To run this project on your own machine, follow these steps:
 
-Clone the repository:
+1. Clone the repository:
 
 git clone "https://github.com/sharan-06/High-Noon-Trivia"
 
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
 cd High-Noon-Trivia
 
 
-Install the required packages:
+3. Install the required packages:
 
 pip install -r requirements.txt
 
 
-Run the Streamlit app:
+4. Run the Streamlit app:
 
 streamlit run trivia1.py
 
