@@ -17,7 +17,7 @@ There are two ways to share this game with others:
 1. Share the Live App (Easiest Method)
 The best way is to deploy the app, which makes it a live website. Anyone with the link can play it instantly in their browser without needing to install anything.
 
-Live App URL: [YOUR_DEPLOYED_APP_URL_HERE]
+Live App URL: https://highnoontrivia.streamlit.app/
 
 (You can deploy this for free using Streamlit Community Cloud. Just connect your GitHub account, select this repository, and click deploy!)
 
