@@ -420,7 +420,7 @@ def back_to_setup():
 st.title("High Noon Trivia")
 
 if st.session_state.screen == "setup":
-    st.subheader("Pick Your Poison")
+    st.subheader("Pick Your Battlefield")
     topic = st.selectbox("Choose your category, partner:", options=list(TOPICS.keys()))
     if st.button("🤠 Start the Duel!", use_container_width=True):
         start_game(topic)
